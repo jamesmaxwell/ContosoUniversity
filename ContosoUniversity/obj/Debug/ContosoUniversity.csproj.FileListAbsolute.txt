@@ -28,10 +28,14 @@ E:\example\ContosoUniversity\ContosoUniversity\bin\zh-Hans\System.Web.Razor.reso
 E:\example\ContosoUniversity\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\example\ContosoUniversity\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\example\ContosoUniversity\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
 E:\example\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
 E:\example\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 E:\example\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 E:\example\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+E:\example\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+E:\example\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+E:\example\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+E:\example\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
