@@ -82,3 +82,9 @@ E:\GitHub\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 E:\GitHub\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
 E:\GitHub\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.initialcreate.resources
 E:\GitHub\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.initialcreate.resources
+E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.StudentColumnShow.resources
+E:\example\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
